@@ -1,0 +1,91 @@
+.body{
+    background-color: rgb(169, 169, 202);
+    margin: 0;
+    display: flex;
+    
+    
+}
+
+
+.nav{
+    background-color: rgb(31, 31, 54);
+    
+    
+}
+.ola{
+    color: aliceblue;
+    
+}
+
+
+
+.iconnav{
+width: 5%;
+padding-left: 5%;;
+margin-top: 5%;
+margin-bottom: 0;
+}
+
+.navlist{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 1;
+   
+     
+}
+.imgsection{
+    display: flex;
+   width: 150vh;
+}
+
+.img{
+    width: 100%;
+    padding-top: 0px;
+    margin: 0;
+    justify-content: center;
+    display: flex;
+}
+
+.texto1{
+    padding: 30%;
+    justify-content: center;
+    display: flex;
+    font-family: 'Pacifico', cursive;
+    
+    
+}
+    
+.navlistbutton{
+    background-color: rgb(253, 254, 255);
+    border-radius: 20vh;
+    
+    font-size: larger;
+}
+    
+
+
+.navlistobj{
+    background-color: rgb(250, 252, 255);
+    border-radius: 20vh;
+    padding-right: 2%;
+    padding-left: 2%;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+}
+.footerlist{
+    
+        display: flex;
+        justify-content: space-between;
+        margin:0;
+        background-color: rgb(31, 31, 54) ; 
+        padding-right: 10%;  
+        padding-left: 10% ; 
+            
+}
+seletor{
+    font-family: 'Pacifico', cursive;
+}
